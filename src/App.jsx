@@ -8,8 +8,9 @@ function App() {
 
   return (
     <>
-      <h1>Ikhda AKmalia Putri</h1>
+      <h1>Ikhda Akmalia Putri</h1>
       <img src={gambar} alt="gambar"/>
+      <p>arts is pain</p>
     </>
   )
 }
